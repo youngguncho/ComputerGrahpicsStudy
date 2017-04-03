@@ -1,0 +1,3 @@
+/home/yg/git/youngguncho/ComputerGrahpicsStudy/homework/hw1_raytracing/build/CMakeFiles/edit_cache.dir
+/home/yg/git/youngguncho/ComputerGrahpicsStudy/homework/hw1_raytracing/build/CMakeFiles/rebuild_cache.dir
+/home/yg/git/youngguncho/ComputerGrahpicsStudy/homework/hw1_raytracing/build/CMakeFiles/hw1_raytracing.dir
